@@ -1,0 +1,28 @@
+#game-board{
+    display:flex;
+    width: 80%;
+    margin:0 auto;
+    background-color: green;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 600px;
+}
+.sqr {
+    border:1px solid black;
+    text-align: center;
+}
+.game-btn { 
+    padding:50px;
+    align-content: center;
+    text-align: center;
+}
+#game-reset {
+    color:white;
+    background-color: purple;
+    border-color:white;
+    height:50px;
+    width:200px;
+    font-size:2em;
+}

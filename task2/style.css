@@ -1,0 +1,14 @@
+table{
+    margin-top:20px;
+    border:1px solid black;
+}
+td,th{
+    border:1px solid black;
+    width:45px;
+}
+.hd {
+    position: fixed;
+    top:0;
+    color:white;
+    background-color: purple;
+}
